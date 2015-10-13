@@ -1,0 +1,11 @@
+1.the raw data in the files "data_set.txt" and "new_data_set.txt".
+
+2.extract features and windowing the data into "thesis_data.txt" and "new_thesis_data.txt"
+
+3.split the "thesis_data.txt" or the "new_thesis_data.txt" , you can get  "thesis_data-test.txt" and "thesis_data-train.txt". Training set is 2 times larger than the testing set.
+
+4."thesis_data-attr.txt" contains the attributes which the algorithm needs.
+
+5.Thesis_dataset.java is for step 2 above.
+
+6.segment_split_file.java is for step 3 above.
